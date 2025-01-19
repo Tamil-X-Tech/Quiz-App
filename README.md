@@ -93,6 +93,8 @@ Home Screen
 ![image](https://github.com/user-attachments/assets/0f9556a2-b138-454d-b927-fc8e1fa96282)
 
 Quiz Screen
+
+
 ![image](https://github.com/user-attachments/assets/73841835-10d9-4db3-b305-66420b4c356d)
 
 📜 Contribution Guidelines
@@ -105,12 +107,19 @@ Push to the branch: git push origin feature-branch-name.
 Submit a pull request.
 
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+  📄 License
+  This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
 
 
 📧 Contact
 For queries, feel free to reach out:
+
 
 Author: Tamilselvan S.
 Email: blackadamjoker01@gmail.com
